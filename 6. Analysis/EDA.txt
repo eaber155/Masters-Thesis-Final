@@ -1,0 +1,19 @@
+IEEE-CIS Fraud Detection
+
+1. https://towardsdatascience.com/ieee-cis-fraud-detection-top-5-solution-5488fc66e95f/
+2. https://medium.com/@mr.priyankmishra/a-realistic-approach-to-ieee-cis-fraud-detection-25faea54137
+3. https://github.com/andrew-siu12/IEEE-CIS-Fraud-Detection
+4. https://colab.research.google.com/github/Rahullnitp/IEEE-CIS-Fraud-Detection/blob/master/IEEE_CIS__FRAUD_Detection.ipynb#scrollTo=7mEAmotGGTT8
+5. https://www.kaggle.com/datasets/muhakabartay/yourallmodelsdata
+6. https://www.kaggle.com/datasets/pratimascripts/ieee-cis-fraud-detection-advanced-fe/code
+7. https://www.kaggle.com/datasets/shreyauniyal19/ieee-cis-fraud-detection
+8. https://www.kaggle.com/competitions/ieee-fraud-detection
+9. https://www.kaggle.com/c/ieee-fraud-detection/data
+10. https://paperswithcode.com/dataset/ieee-cis-fraud-detection-1
+11. https://github.com/fariha123/IEEE-CIS-Fraud-Detection
+12. https://github.com/TapasKumarDutta1/IEEE-CIS-Fraud
+13. https://medium.com/@abhishekmishra_22309/ieee-cis-fraud-detection-d011d6ef2fec
+14. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10595068
+15. https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9882043
+16. https://www.kaggle.com/c/ieee-fraud-detection/discussion/111510
+17. https://medium.com/@guildbilla/reviewing-ieee-cis-fraud-detection-competition-on-kaggle-top-2-solution-xgboost-b31e77b377b9

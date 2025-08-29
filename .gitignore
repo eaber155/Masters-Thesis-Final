@@ -1,1 +1,4 @@
 6. Analysis/*.csv
+6. Analysis*.pkl
+6. Analysis/saved_models/*.pkl
+6. Analysis/saved_data/*.pkl

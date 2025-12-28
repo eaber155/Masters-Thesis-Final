@@ -1,0 +1,4 @@
+Analysis/*.csv
+Analysis/saved_models/*.pkl
+Analysis/saved_data/*.pkl
+Backup/

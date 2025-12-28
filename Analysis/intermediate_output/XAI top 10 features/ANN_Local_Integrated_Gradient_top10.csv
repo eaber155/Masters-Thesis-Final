@@ -1,0 +1,11 @@
+feature,attribution,abs_attribution
+sub_grade,-0.12925191,0.12925191
+issue_year,-0.11831346,0.11831346
+verification_status,-0.046002395,0.046002395
+home_ownership,-0.02941683,0.02941683
+title,-0.028055737,0.028055737
+percent_bc_gt_75,0.026005642,0.026005642
+total_bc_limit,0.024133487,0.024133487
+emp_title,0.023806565,0.023806565
+term_in_months,-0.02296328,0.02296328
+earliest_cr_line_year,-0.022528972,0.022528972

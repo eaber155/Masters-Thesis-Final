@@ -1,0 +1,11 @@
+feature,shap_value,abs_shap_value
+title,-1.3586899,1.3586899
+sub_grade,-0.6025139,0.6025139
+issue_year,-0.29829454,0.29829454
+verification_status,-0.1313495,0.1313495
+loan_amnt,-0.09911302,0.09911302
+home_ownership,-0.09877202,0.09877202
+mo_sin_old_il_acct,0.08526833,0.08526833
+dti,-0.06476873,0.06476873
+acc_open_past_24mths,0.053356595,0.053356595
+total_il_high_credit_limit,-0.04671443,0.04671443
